@@ -189,8 +189,6 @@ eb deploy
 * WordPress → `http://<lightsail-ip>/wp-login.php`
 * Node.js → Beanstalk URL provided by `eb open`
 
----
-
 ## 📝 Notes
 
 * Lightsail = Beginner-friendly VPS (best for WordPress/simple apps).
